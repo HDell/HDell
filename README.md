@@ -1,4 +1,4 @@
-### Hi there 👋
+### Handell Desulme - Full Stack Web Developer
 
 <!--
 **HDell/HDell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="HDell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HDell&show_icons=true&hide_border=true" />
+
+</details>
