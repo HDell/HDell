@@ -1,4 +1,4 @@
-### Hello :smile: I'm a full-stack (software) engineer adept at implementing reliable, intuitive, and performant frontend and backend web applications.
+### Hello :smile: I'm a full-stack (software) engineer adept at implementing reliable, intuitive, and performant front-end and back-end web applications.
 
 #### Proficiencies:  JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, SQL, PostgreSQL, HTML, CSS, Tailwind CSS, and more
 
